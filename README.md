@@ -1,4 +1,4 @@
-![image](https://github.com/Blessorzzz/Tetris-pygame/assets/127826744/9d4153fe-6303-4daa-a664-1b3805817dbb)# Tetris - a Micro Pygame
+# Tetris - a Micro Pygame
 **Demonstration:** 
 
 
